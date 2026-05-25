@@ -21,3 +21,4 @@ while(True):
     else:
         break
 print(f"Final total : {total}")
+print("test")
